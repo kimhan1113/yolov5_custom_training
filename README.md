@@ -8,6 +8,6 @@
 
 https://public.roboflow.ai/object-detection/pistols
 
-## yolo_github
+## Yolov5_github
 
 https://github.com/ultralytics/yolov5
