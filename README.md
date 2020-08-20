@@ -4,6 +4,6 @@
 
 - classify gun and raccoon
 
-## refernce
+## Reference
 
 https://public.roboflow.ai/object-detection/pistols
